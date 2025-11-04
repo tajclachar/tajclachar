@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Taj 👋
+🎓 Marketing Analytics, Financial Technology & Data Science Grad • 📊 Data Storyteller
 
-<!--
-**tajclachar/tajclachar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use this space to turn data into clear stories—combining Python/SQL with visuals and clean, readable notebooks.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+Python • SQL • Pandas • NumPy • Jupyter Notebook • Matplotlib • Tableau/Power BI • Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Featured Work
+- **Spotify Listening Trends (EDA)** — Python + Pandas + Matplotlib to explore patterns in listening behavior  
+- **Marketing Insights Dashboard** — SQL → Tableau dashboard for campaign KPIs and spend efficiency  
+- **Financial Forecasting** — Regression-based revenue model with scenario analysis
+
+> I care about clarity, reproducibility, and tidy repos with strong READMEs.
+
+## 📬 Connect
+- **LinkedIn:** https://linkedin.com/in/tajclachar
