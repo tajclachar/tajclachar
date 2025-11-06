@@ -7,9 +7,8 @@ I use this space to turn data into clear stories—combining Python/SQL with vis
 Python • SQL • Pandas • NumPy • Jupyter Notebook • Matplotlib • Tableau/Power BI • Excel
 
 ## ⭐ Featured Work
-- **Spotify Listening Trends (EDA)** — Python + Pandas + Matplotlib to explore patterns in listening behavior  
-- **Marketing Insights Dashboard** — SQL → Tableau dashboard for campaign KPIs and spend efficiency  
-- **Financial Forecasting** — Regression-based revenue model with scenario analysis
+- **Coffee Shop Sales Analysis** — Python + Pandas + Matplotlib to explore patterns and trends
+
 
 > I care about clarity, reproducibility, and tidy repos with strong READMEs.
 
